@@ -1,0 +1,6 @@
+HOST=127.0.0.1
+USER_DB=usersample
+PASSWORD=passwordsample
+DB=dbsample
+TOKEN_SECRET=0000
+SALTROUNDS=100

@@ -1,0 +1,23 @@
+{
+  "name": "proyectonode01",
+  "version": "1.0.0",
+  "description": "Proyecto de practica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darwin Vallejo",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.6.4",
+    "mysql": "^2.17.1",
+    "mysql2": "^1.6.5",
+    "nodemon": "^1.19.1",
+    "sqlmigrate": "^2.1.0"
+  }
+}
